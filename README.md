@@ -22,7 +22,7 @@ To Test:
 bats test_task_1.sh
 ```
 
-Right code gives the following output after running test_task_1.sh
+Correct code gives the following output after running test_task_1.sh
 ```sh
 ✓ [task_1] Check bin/task_1 existance 
 ✓ [task_1] Check error handling 
