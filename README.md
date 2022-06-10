@@ -9,7 +9,7 @@ Tejas Acharya [Twitter](https://twitter.com/achte_te)
 A guessing game written in C++.
 
 
-To Run:
+To Build and Run:
 ```sh
 git clone git@github.com:achte-2022/Modern_CPP_2_A.git
 cd Modern_CPP_2_A
