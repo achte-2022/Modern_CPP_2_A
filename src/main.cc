@@ -23,7 +23,7 @@ int main(){
         std::cout << "Enter your guess: ";
         std::cin >> user_guess;
         if (std::cin.fail()){
-            std::cout << "Error encountered, exiting..." << std::endl;
+            std::cerr << "Error encountered, exiting...";
             std::cout << computer_guess;
             return EXIT_FAILURE;
         }
