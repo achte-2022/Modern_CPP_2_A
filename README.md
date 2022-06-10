@@ -21,3 +21,14 @@ To Test:
 ```sh
 bats test_task_1.sh
 ```
+
+Right code gives the following output after running test_task_1.sh
+```sh
+✓ [task_1] Check bin/task_1 existance 
+✓ [task_1] Check error handling 
+✓ [task_1] Check input between [0-99] 
+✓ [task_1] Check random number betwwen [0-99] 
+✓ [task_1] Check randomness 
+
+5 tests, 0 failures
+```
