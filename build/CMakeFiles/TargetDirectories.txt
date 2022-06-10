@@ -1,0 +1,13 @@
+/home/ta/Desktop/Modern_CPP_2_A/build/CMakeFiles/edit_cache.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/CMakeFiles/rebuild_cache.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/CMakeFiles/list_install_components.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/CMakeFiles/install.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/CMakeFiles/install/local.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/CMakeFiles/install/strip.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/src/CMakeFiles/task_1.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/src/CMakeFiles/edit_cache.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/src/CMakeFiles/rebuild_cache.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/src/CMakeFiles/list_install_components.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/src/CMakeFiles/install.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/src/CMakeFiles/install/local.dir
+/home/ta/Desktop/Modern_CPP_2_A/build/src/CMakeFiles/install/strip.dir
